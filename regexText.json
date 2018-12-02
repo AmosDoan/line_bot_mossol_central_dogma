@@ -1,0 +1,32 @@
+[
+  {
+    "regex": "(?<=^메뉴추가\\s)(.+$)",
+    "type": "ADD_MENU_K"
+  },
+  {
+    "regex": "(?<=^메뉴삭제\\s)(.+)",
+    "type": "DEL_MENU_K"
+  },
+  {
+    "regex": "(?<=^일본메뉴추가\\s)(.+$)",
+    "type": "ADD_MENU_J"
+  },
+  {
+    "regex": "(?<=^일본메뉴삭제\\s)(.+$)",
+    "type": "DEL_MENU_J"
+  },
+  {
+    "regex": "(?<=^회식추가\\s)(.+$)",
+    "type": "ADD_MENU_D"
+  },
+  {
+    "regex": "(?<=^회식삭제\\s)(.+)",
+    "type": "DEL_MENU_D"
+  },
+  {
+    "regex": "안녕",
+    "type": "TEXT",
+    "response": "멍멍!!"
+  }
+]
+
