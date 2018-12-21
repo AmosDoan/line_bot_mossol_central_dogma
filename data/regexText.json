@@ -24,6 +24,10 @@
     "type": "DEL_MENU_D"
   },
   {
+    "regex": ".+(?=에서.*명골라줘)|\\d+",
+    "type": "RANDOM_SELECT"
+  },
+  {
     "regex": "안녕",
     "type": "TEXT",
     "response": "멍멍!!"
