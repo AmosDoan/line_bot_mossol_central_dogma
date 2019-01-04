@@ -58,6 +58,10 @@
   {
     "message": "CS선정",
     "type": "KEI_CS"
+  },
+  {
+    "message": "CS추천",
+    "type": "KEI_CS"
   }
 ]
 
