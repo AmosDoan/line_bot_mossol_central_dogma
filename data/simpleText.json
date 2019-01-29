@@ -62,6 +62,11 @@
   {
     "message": "CS추천",
     "type": "KEI_CS"
+  },
+  {
+    "message": "후후",
+    "type": "TEXT",
+    "response": "후후 멍멍!! 호호!!"
   }
 ]
 
