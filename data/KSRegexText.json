@@ -1,0 +1,15 @@
+[
+  {
+    "regex": "(.+(?=에서.*명골라줘)|(\\d+)(?=명))",
+    "type": "RANDOM_SELECT"
+  },
+  {
+    "type": "KEI_CS",
+    "regex": "CS선정"
+  },
+  {
+    "type": "KEI_CS",
+    "regex": "CS추천"
+  }
+]
+
