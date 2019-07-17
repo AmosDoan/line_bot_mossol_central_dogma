@@ -63,7 +63,8 @@
   },
   {
     "message": "집으로",
-    "type": "LEAVE_ROOM"
+    "type": "LEAVE_CHAT",
+    "response": "집에 가기 싫어요..."
   },
   {
     "message": "후후",
